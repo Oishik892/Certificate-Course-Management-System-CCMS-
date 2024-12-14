@@ -1,0 +1,61 @@
+.container{
+
+    height: 400px;
+
+    width: 560px;
+
+    /* background: red; */
+
+    position: relative;
+
+}
+
+.content{
+
+    position: absolute;
+
+    height: 100%;
+
+    width: 100%;
+
+    top: 0;
+
+    left: 0;
+
+    /* background-color: rebeccapurple; */
+
+}
+
+.content h1{
+
+    margin-top: 150px;
+
+    margin-left: 190px;
+
+}
+
+.content p{
+
+    margin-top: -6px;
+
+    margin-left: 300px;
+
+}
+
+button{
+
+    margin-top: 10px;
+
+    height: 40px;
+
+    width:100px;
+
+    border: none;
+
+    background-color: orange;
+
+    color: #fff;
+
+    border-radius: 5px;
+
+}

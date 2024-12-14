@@ -1,0 +1,23 @@
+[
+    {
+      "ageGroup": "18-25",
+      "count": 120
+    },
+    {
+      "ageGroup": "26-30",
+      "count": 85
+    },
+    {
+      "ageGroup": "31-35",
+      "count": 60
+    },
+    {
+      "ageGroup": "36-40",
+      "count": 45
+    },
+    {
+      "ageGroup": "41-50",
+      "count": 30
+    }
+  ]
+  

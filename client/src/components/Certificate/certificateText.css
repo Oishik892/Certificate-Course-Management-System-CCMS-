@@ -1,0 +1,21 @@
+@media print {
+  .container-fluid .certificate_footer {
+    display: none;
+    /* border: 1px solid red; */
+  }
+
+  .container-fluid {
+    background-image: none;
+    font-family: "Times New Roman", Times, serif;
+  }
+
+  /* .certifiicate_container {
+    display: flex;
+  } */
+}
+
+@media screen {
+  .container-fluid .certificate_footer {
+    display: flex;
+  }
+}

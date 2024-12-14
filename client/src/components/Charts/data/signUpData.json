@@ -1,0 +1,62 @@
+[
+  {
+    "label": "Jan",
+    "student": 1500,
+    "teacher": 200
+  },
+  {
+    "label": "Feb",
+    "student": 1300,
+    "teacher": 180
+  },
+  {
+    "label": "Mar",
+    "student": 1700,
+    "teacher": 220
+  },
+  {
+    "label": "Apr",
+    "student": 1400,
+    "teacher": 190
+  },
+  {
+    "label": "May",
+    "student": 1600,
+    "teacher": 210
+  },
+  {
+    "label": "Jun",
+    "student": 1800,
+    "teacher": 230
+  },
+  {
+    "label": "Jul",
+    "student": 1900,
+    "teacher": 250
+  },
+  {
+    "label": "Aug",
+    "student": 2000,
+    "teacher": 260
+  },
+  {
+    "label": "Sep",
+    "student": 1700,
+    "teacher": 220
+  },
+  {
+    "label": "Oct",
+    "student": 1500,
+    "teacher": 200
+  },
+  {
+    "label": "Nov",
+    "student": 1400,
+    "teacher": 190
+  },
+  {
+    "label": "Dec",
+    "student": 1600,
+    "teacher": 210
+  }
+]
